@@ -1,0 +1,99 @@
+repo_name: Huntemall/browserpass-native-dev
+report_id: 96a4761f9398cb89f9888076a97155c1
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-16T09:56:51+00:00'
+requested_by: maximbaz
+provider: github
+branch: dev
+detected_tools_count: 7
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev
+  detection_source: Repo Metadata
+- name: go-zglob
+  description: Go-zglob zglob Usage Installation License MIT Author Yasuhiro Matsumoto
+  package_url: https://pkg.go.dev/github.com/mattn/go-zglob
+  version: 0.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev/blob/dev/go.sum
+  detection_source: go.mod
+  last_updated_by: Maxim Baz
+  last_updated_on: 2023-03-04 14:59:14.000000000 Z
+- name: lfshook
+  description: A local file system hook for golang logrus logger
+  package_url: https://pkg.go.dev/github.com/rifflock/lfshook
+  version: 0.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev/blob/dev/go.sum
+  detection_source: go.mod
+  last_updated_by: Maxim Baz
+  last_updated_on: 2019-03-12 23:13:03.000000000 Z
+- name: logrus
+  description: Structured, pluggable logging for Go
+  package_url: https://pkg.go.dev/github.com/sirupsen/logrus
+  version: 1.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev/blob/dev/go.sum
+  detection_source: go.mod
+  last_updated_by: Maxim Baz
+  last_updated_on: 2023-10-04 07:15:50.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Huntemall/browserpass-native-dev/blob/dev/go.sum
+  detection_source: go.mod
+  last_updated_by: Maxim Baz
+  last_updated_on: 2019-03-12 23:13:03.000000000 Z
